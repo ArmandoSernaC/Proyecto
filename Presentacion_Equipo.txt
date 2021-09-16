@@ -1,0 +1,6 @@
+#Espacio donde cada integrante se presentará:
+
+Integrante 1:
+Nombre : Armando Serna 
+Correo : armandoserna4@hotmail.com
+Rol designado : Desarrollador. 
