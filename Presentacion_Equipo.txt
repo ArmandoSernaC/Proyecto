@@ -3,4 +3,4 @@
 Integrante 1:
 Nombre : Armando Serna 
 Correo : armandoserna4@hotmail.com
-Rol designado : Desarrollador. 
+Rol designado : Desarrollador Principal. 
