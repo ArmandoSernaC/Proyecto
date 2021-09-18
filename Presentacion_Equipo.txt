@@ -4,3 +4,9 @@ Integrante 1:
 Nombre : Armando Serna 
 Correo : armandoserna4@hotmail.com
 Rol designado : Desarrollador Principal. 
+
+Integrante 2:
+Nombre : Juan Pablo Gomez Vasquez
+Correo : juanpablogv99@gmail.com
+Rol principal : Desarrollador
+Rol secundario : Analista
