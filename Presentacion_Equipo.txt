@@ -22,3 +22,9 @@ Nombre : Melina Esther Navarro Rojano
 Correo : melynaro@outlook.com
 Rol principal : Desarrollador
 Rol secundario : Scrum Master
+
+Integrante 5:
+Nombre: Daniel Steven Osorno Ortiz
+Correo : danielosorno1996@gmail.com
+Rol principal : Desarrollador
+Rol secundario : Administrador de BD
