@@ -14,7 +14,7 @@ Rol secundario : Analista
 Integrante 3:
 Nombre : Katherine Julieth Castillo Villamizar
 Correo : katherine.castillo353@gmail.com
-Rol principal : Desarrolladora
+Rol principal : Desarrollador
 Rol secundario : Product Owner 
 
 Integrante 4:
