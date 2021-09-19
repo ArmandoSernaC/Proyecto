@@ -16,3 +16,9 @@ Nombre : Katherine Julieth Castillo Villamizar
 Correo : katherine.castillo353@gmail.com
 Rol principal : Desarrolladora
 Rol secundario : Product Owner 
+
+Integrante 4:
+Nombre : Melina Esther Navarro Rojano
+Correo : melynaro@outlook.com
+Rol principal : Desarrollador
+Rol secundario : Scrum Master
