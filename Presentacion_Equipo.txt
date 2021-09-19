@@ -18,7 +18,7 @@ Rol principal : Desarrollador
 Rol secundario : Product Owner 
 
 Integrante 4:
-Nombre : Melina Esther Navarro Rojano
+Nombre : Melina Esther Navarro
 Correo : melynaro@outlook.com
 Rol principal : Desarrollador
 Rol secundario : Scrum Master
